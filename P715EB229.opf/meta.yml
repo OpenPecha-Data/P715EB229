@@ -1,0 +1,35 @@
+id: P715EB229
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA28834
+  instance_id: http://purl.bdrc.io/resource/IE28834
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ངག་སྒྲོན་རྩ་འགྲེལ་དང་དེའི་ཡང་འགྲེལ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - yu deng xiang shi
+    en-x-mixed:
+    - Ṅag sgron rtsa ʼgrel daṅ deʼi yaṅ ʼgrel /Dpal-khaṅ Lo-tsā-bas rtsa ba mdzad
+      ; Bstan-ʼdzin-rgyal-mtshan gyis ʼgrel pa mdzad ; Kun-bzaṅ-rnam-rgyal gyis yaṅ
+      ʼgrel brtsams.
+  author: http://purl.bdrc.io/resource/P9355
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    c411dceee3d541fca1a8c44a0013b3b2:
+      title: པོད ༡་ངག་སྒྲོན་རྩ་འགྲེལ་དང་དེའི་ཡང་འགྲེལ
+      volume_number: 1
+      base_file: UT28834_5781_0000.txt
+      reference: http://purl.bdrc.io/resource/VL42273D77BFA5AF31
+      image_group: '5781'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW28834
+  - http://purl.bdrc.io/resource/W28834
+  ocr_software: Namsel
+created_at: '2021-12-22T11:11:15.074039'
+last_modified_at: '2021-12-22T11:11:15.074047'
